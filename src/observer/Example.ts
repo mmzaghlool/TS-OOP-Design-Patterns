@@ -1,5 +1,5 @@
-import SimpleObserver from './observer/SimpleObserver';
-import SimpleSubject from './observer/SimpleSubject';
+import SimpleObserver from './SimpleObserver';
+import SimpleSubject from './SimpleSubject';
 
 function Example() {
     console.log('start');
@@ -13,10 +13,9 @@ function Example() {
     simpleSubject.registerObserver(simpleObserver2);
 
     simpleSubject.setValue(100);
-    
+
     simpleSubject.removeObserver(simpleObserver);
     simpleSubject.setValue(10);
-
 }
 
 Example();
