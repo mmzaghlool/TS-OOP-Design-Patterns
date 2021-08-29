@@ -1,10 +1,10 @@
-import Beverage from './decorator/Beverage';
-import DarkRoast from './decorator/DarkRoast';
-import Espresso from './decorator/Espresso';
-import HouseBlend from './decorator/HouseBlend';
-import Mocha from './decorator/Mocha';
-import Soy from './decorator/Soy';
-import Whip from './decorator/Whip';
+import Beverage from './Beverage';
+import DarkRoast from './DarkRoast';
+import Espresso from './Espresso';
+import HouseBlend from './HouseBlend';
+import Mocha from './Mocha';
+import Soy from './Soy';
+import Whip from './Whip';
 
 function Example() {
     const beverage: Beverage = new Espresso();
