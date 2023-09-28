@@ -1,9 +1,9 @@
-import CashBox from './CurawellaPayment/methods/CashBox';
-import ValU from './CurawellaPayment/methods/ValU';
-import Payment from './CurawellaPayment/Payment';
-import FixedDiscount from './CurawellaPayment/promoCodes/FixedDiscount';
-import Appointment, {BOOKING_TYPES} from './CurawellaPayment/types/Appointment';
-import Message from './CurawellaPayment/types/Message';
+import CashBox from './methods/CashBox';
+import ValU from './methods/ValU';
+import Payment from './Payment';
+import FixedDiscount from './promoCodes/FixedDiscount';
+import Appointment, {BOOKING_TYPES} from './types/Appointment';
+import Message from './types/Message';
 
 function Example() {
     let payment: Payment = new Message('');

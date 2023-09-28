@@ -18,7 +18,7 @@ A collection of Typescript Object Oriented Design Patterns examples inspired by 
 
 ## Reach Me
 
-If you have any suggestions, modification, or request you can find me at:
+If you have any suggestions, modification, or requests you can find me at:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mmzaghlool/"><img align="center" src="https://icon-library.com/images/linkedin-icon-png-transparent-background/linkedin-icon-png-transparent-background-15.jpg" alt="LinkedIn profile" height="40" width="40" /></a>
